@@ -1,60 +1,71 @@
-Privacy Policy for Field manager Appp
+Privacy Policy for Field manager App
 Effective Date: 01 jan 2024
 
-This Privacy Policy describes how Field manager ("we," "us," or "our") collects, uses, and discloses information in connection with your use of our mobile application, Field manager ("App").
+### Introduction
+
+Field manager (the "App") is developed by Agrosahas. This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you use the App.
 
 ### Information We Collect
 
-We collect the following information when you use our App:
+We may collect the following information from you:
 
-Device Information: We collect information about the device you use to access the App, such as the device type, operating system version, unique device identifiers, and IP address.
-Location Information: We may collect your location information (with your consent) to provide you with flood alerts relevant to your area. You can manage your location permissions through your device settings.
-Usage Data: We collect information about how you interact with the App, such as the features you access, the content you view, and the time you spend using the App.
-Use of Information
+Personal Information: Name, email address, phone number, and other contact details provided by you during registration or account creation.
 
-We use the information we collect for the following purposes:
+Device Information: Information about your device, including device type, operating system, and unique device identifiers.
 
-To provide, operate, and maintain the App;
-To send you flood alerts relevant to your location (with your consent);
-To provide you with educational content about environmental change control measures;
-To improve the App and develop new features;
-To analyze how you use the App;
-To comply with legal and regulatory obligations.
-Sharing of Information
+Location Information: We collect location data to track employee and goods transportation. This information is used for route optimization, real-time tracking, and ensuring the safety of employees and goods.
 
-We will not share your personal information with third parties without your consent, except in the following limited circumstances:
+Usage Data: Information about how you use the App, including features accessed, actions taken, and time spent within the App.
 
-Service Providers: We may share your information with third-party service providers who help us operate the App, such as cloud storage providers or data analytics providers. These service providers are contractually obligated to keep your information confidential and secure.
-Legal Requirements: We may disclose your information if we are required to do so by law or in the good faith belief that such disclosure is necessary to comply with a legal process, protect the safety of others, or investigate fraud.
-### Data Retention
 
-We will retain your information for as long as necessary to fulfill the purposes described in this Privacy Policy, unless a longer retention period is required or permitted by law.
+### How We Use Your Information
 
-### Security
+We use the collected information for the following purposes:
 
-We take reasonable steps to protect your information from unauthorized access, disclosure, alteration, or destruction. However, no internet or electronic storage system is 100% secure.
+To provide and improve the App's functionality.
+To track employee and goods transportation for operational efficiency.
+To communicate with you regarding the App, updates, and important notices.
+To analyze App usage and performance.
+To ensure the safety and security of employees and goods.
+To comply with legal obligations.
 
-### Children's Privacy
 
-Our App is not directed to children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and you believe your child has provided us with personal information, please contact us.
+
+### Data Sharing
+
+We may share your information with:
+
+Third-party service providers: We may engage third-party service providers to assist with various aspects of our business, such as data analysis, marketing, and customer support. These service providers have access to your information only to perform specific tasks on our behalf and are obligated to maintain confidentiality.   
+Law enforcement or government authorities: We may disclose your information if required by law or in response to valid legal requests, subpoenas, or court orders.
+
+
+
+### Data Security
+
+We implement reasonable security measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction. However, no method of transmission or storage is completely secure, and we cannot guarantee absolute security
+
+
 
 ### Your Rights
 
-You have certain rights regarding your information, including the right to access, correct, or delete your information. You can also object to the processing of your information or withdraw your consent.
+You have the right to:   
 
-Changes to this Privacy Policy
+Access your personal information.
+Correct or update your personal information.
+Delete your personal information.
+Object to the processing of your personal information.   
+Restrict the processing of your personal information.   
+Data portability.
+To exercise these rights, please contact us at https://digifarmer.ai.
 
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the App.
+
+### Children's Privacy
+The App is not intended for children under the age of 13. We do not knowingly collect personal information from children.
+
+
+### Changes to This Privacy Policy
+We reserve the right to modify this Privacy Policy at any time. We will notify you of any material changes by posting the updated policy on our website or within the App.   
+
 
 ### Contact Us
-
-If you have any questions about this Privacy Policy, please contact us at:
-
-
-
-### Additional Considerations
-
-You may want to add a section about international data transfers if your App collects data from users outside your country.
-You may want to provide more information about the specific security measures you take to protect user data.
-You can link to resources from relevant regulatory bodies for user reference (e.g., GDPR: http://gdpr-info.eu/ for the EU).
-This is a sample privacy policy and may need to be adapted to comply with specific laws and regulations in your jurisdiction.  We recommend that you consult with an attorney to ensure your privacy policy is compliant.
+If you have any questions or concerns about this Privacy Policy, please contact us at https://digifarmer.ai
