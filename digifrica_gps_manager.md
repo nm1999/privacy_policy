@@ -7,67 +7,55 @@ When visitors leave comments on the site we collect the data shown in the commen
 
 An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment
 
-### Information We Collect
-
-We may collect the following information from you:
-
-Personal Information: Name, email address, phone number, and other contact details provided by you during registration or account creation.
-
-Device Information: Information about your device, including device type, operating system, and unique device identifiers.
-
-Location Information: We collect location data to track employee and goods transportation. This information is used for route optimization, real-time tracking, and ensuring the safety of employees and goods.
-
-Usage Data: Information about how you use the App, including features accessed, actions taken, and time spent within the App.
+### Media
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
 
-### How We Use Your Information
+### Cookies
 
-We use the collected information for the following purposes:
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-To provide and improve the App's functionality.
-To track employee and goods transportation for operational efficiency.
-To communicate with you regarding the App, updates, and important notices.
-To analyze App usage and performance.
-To ensure the safety and security of employees and goods.
-To comply with legal obligations.
+If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
 
 
-### Data Sharing
+### Embedded content from other websites
 
-We may share your information with:
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-Third-party service providers: We may engage third-party service providers to assist with various aspects of our business, such as data analysis, marketing, and customer support. These service providers have access to your information only to perform specific tasks on our behalf and are obligated to maintain confidentiality.   
-Law enforcement or government authorities: We may disclose your information if required by law or in response to valid legal requests, subpoenas, or court orders.
-
-
-
-### Data Security
-
-We implement reasonable security measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction. However, no method of transmission or storage is completely secure, and we cannot guarantee absolute security
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
 
 
 
-### Your Rights
+### Who we share your data with
 
-You have the right to:   
-
-Access your personal information.
-Correct or update your personal information.
-Delete your personal information.
-Object to the processing of your personal information.   
-Restrict the processing of your personal information.   
-Data portability.
-To exercise these rights, please contact us at https://digifarmer.ai.
+If you request a password reset, your IP address will be included in the reset email.
 
 
-### Children's Privacy
-The App is not intended for children under the age of 13. We do not knowingly collect personal information from children.
+
+### How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
 
-### Changes to This Privacy Policy
-We reserve the right to modify this Privacy Policy at any time. We will notify you of any material changes by posting the updated policy on our website or within the App.   
+### What rights you have over your data
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+
+### Where your data is sent
+Visitor comments may be checked through an automated spam detection service. 
+
+Note: We do not share location or device information with any third-party partners.
 
 
 ### Contact Us
-If you have any questions or concerns about this Privacy Policy, please contact us at https://digifarmer.ai
+If you have any questions or concerns about this Privacy Policy, 
+please contact us at https://digifarmer.ai
+Email : sales@digifarmer.ai
+Call us : +256-70074818​1
